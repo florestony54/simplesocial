@@ -54,11 +54,9 @@ coverage.xml
 # Django stuff:
 *.log
 local_settings.py
-mysite/settings.py
+simplesocial/settings.py
 db.sqlite3
-static/
-media/
-blog/static/img
+
 
 # Flask stuff:
 instance/
